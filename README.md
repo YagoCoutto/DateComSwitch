@@ -1,2 +1,2 @@
 # DateComSwitch
- Usando alternar exercício para exibir data e horário na tela
+ Usando Switch para exibir data e hora na tela
